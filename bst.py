@@ -63,7 +63,7 @@ def preorderTraversal(root: TreeNode):
           
         return arr
 
-def postorderTraversal( root:TreeNode):
+def postorderTraversal(root:TreeNode):
         arr = []
         if root == None:
             return root
